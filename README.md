@@ -46,8 +46,11 @@ Il m’a également permis d’appliquer la méthodologie CRISP-DM pour structur
 
 ## Technologies utilisées
 Python
+
 Pandas
+
 Matplotlib
+
 Jupyter Notebook
 
 
