@@ -42,3 +42,14 @@ Conception de modèles CNN
 Évaluation et interprétation de modèles de classification
 
 Il m’a également permis d’appliquer la méthodologie CRISP-DM pour structurer un projet en sciences des données de manière claire et professionnelle.
+
+
+## Technologies utilisées
+Python
+Pandas
+Matplotlib
+Jupyter Notebook
+
+
+## 👥 Travail en équipe
+Projet réalisé en collaboration avec des camarades de classe.
